@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-20 10:26:42,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-01-20 12:03:20,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -379,8 +379,8 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 吉林卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000030
 吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 吉林卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
 吉林卫视,https://migu.188766.xyz/?migutoken=4d27a5db32c9f316616c47b7f072baaf&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
 江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
 江苏卫视,https://migu.188766.xyz/?migutoken=0e360ac712387d55d7de0f5ba22fc3b8&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
@@ -525,6 +525,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-20.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-2.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-12.ctv
+广东新闻,https://hk.188766.xyz/?migutoken=c4c34653a36ae5894131c49304c952ff&id=gd_gdxw&type=sz
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
 广东卫视,https://migu.188766.xyz/?migutoken=869502ab36e68ce8a531da1020f873a1&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
@@ -534,6 +535,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 广东卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010055/1.m3u8
+广东卫视,https://migu.188766.xyz/?migutoken=f0f896092182c65084f6fd133f9e39cb&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 广东民生,https://hk.188766.xyz/?migutoken=3a764634d6cd6fb0639552a3acebb3c0&id=gd_gdms&type=sz
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-35.ctv
@@ -613,6 +615,8 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-5.ctv
 
 ☘️港澳台频道,#genre#
+凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
@@ -623,8 +627,6 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,https://hls-gateway.vpstv.net/streams/476958.m3u8
-凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
-凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
 翡翠台,http://r.jdshipin.com/62WM7
@@ -641,3 +643,60 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+
+📡港澳台频道,#genre#
+凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,https://mgev.188766.xyz/?migutoken=521c0e15507784f3454db3f90e901d5b&id=fhzx&pp=1
+凤凰资讯,https://mgev.188766.xyz/?migutoken=dfdb9e4c65559affb37c1c44f069b42c&id=hk_fhzx&type=dy
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+凤凰资讯,https://hls-gateway.vpstv.net/streams/476958.m3u8
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/GeWKr
+翡翠台,http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+翡翠台,http://cdn6.163189.xyz/163189/fct4k
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,https://mgev.188766.xyz/?migutoken=7d34a1615682ce3f43f3fd7c89598502&id=hk_fct4k&type=dy
+星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
+星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
+星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
+星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
+星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,https://mgev.188766.xyz/?migutoken=072fb16cdbe85eed283d9a7d9815e04c&id=hk_tvbp&type=dy
+TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
+TVB Plus,https://live.catvod.com/iptv.php?id=tvbplus2
+TVB Plus,https://stream1.freetv.fun/tvb-j2-2.ctv
+明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,http://r.jdshipin.com/jUx8K
+明珠台,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
+明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
+明珠台,http://hls.168.us.kg/u/84/master.m3u8
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+明珠台,https://mgev.188766.xyz/?migutoken=23e616d2ccb9f8cf566f8f2567d1676a&id=hk_mzt&type=dy
+明珠台,https://live.catvod.com/iptv.php?id=mztsub
+无线新闻台,http://r.jdshipin.com/CkuBd
+无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+无线新闻台,http://hls.168.us.kg/u/83/master.m3u8
+无线新闻台,http://tl.061833.xyz/tl/null-11
+无线新闻台,https://mgev.188766.xyz/?migutoken=91a6c0032df67b610f36764c6aaf8215&id=hk_wxxw&type=dy
+无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
+无线新闻台,https://cdn6.101.qzz.io/163189/wxxw
+无线新闻台,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn

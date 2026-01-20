@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ykhbhgogo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-20 10:26:42
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-20 12:03:20
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -752,9 +752,9 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="📡卫视频道",吉林卫视
-https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="📡卫视频道",吉林卫视
 https://migu.188766.xyz/?migutoken=4d27a5db32c9f316616c47b7f072baaf&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="吉林卫视.png" group-title="📡卫视频道",吉林卫视
+https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://iptv.huuc.edu.cn/hls/jshd.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="江苏卫视.png" group-title="📡卫视频道",江苏卫视
@@ -1039,6 +1039,8 @@ https://stream1.freetv.fun/yan-dong-xin-wen-20.m3u8
 https://stream1.freetv.fun/yan-dong-xin-wen-2.m3u8
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="广东新闻.png" group-title="☘️广东频道",广东新闻
 https://stream1.freetv.fun/yan-dong-xin-wen-12.ctv
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="广东新闻.png" group-title="☘️广东频道",广东新闻
+https://hk.188766.xyz/?migutoken=c4c34653a36ae5894131c49304c952ff&id=gd_gdxw&type=sz
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="☘️广东频道",广东卫视
 http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="☘️广东频道",广东卫视
@@ -1057,6 +1059,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="☘️广东频道",广东卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010055/1.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="广东卫视.png" group-title="☘️广东频道",广东卫视
+https://migu.188766.xyz/?migutoken=f0f896092182c65084f6fd133f9e39cb&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="广东民生.png" group-title="☘️广东频道",广东民生
 https://hk.188766.xyz/?migutoken=3a764634d6cd6fb0639552a3acebb3c0&id=gd_gdms&type=sz
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="广东民生.png" group-title="☘️广东频道",广东民生
@@ -1211,6 +1215,10 @@ https://stream1.freetv.fun/shan-tou-jing-ji-4.ctv
 https://stream1.freetv.fun/shan-tou-jing-ji-2.ctv
 #EXTINF:-1 tvg-name="汕头经济" tvg-logo="汕头经济.png" group-title="☘️广东频道",汕头经济
 https://stream1.freetv.fun/shan-tou-jing-ji-5.ctv
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="凤凰卫视.png" group-title="☘️港澳台频道",凤凰卫视
+http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="凤凰卫视.png" group-title="☘️港澳台频道",凤凰卫视
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="☘️港澳台频道",凤凰资讯
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="☘️港澳台频道",凤凰资讯
@@ -1231,10 +1239,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="☘️港澳台频道",凤凰资讯
 https://hls-gateway.vpstv.net/streams/476958.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="凤凰卫视.png" group-title="☘️港澳台频道",凤凰卫视
-http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="凤凰卫视.png" group-title="☘️港澳台频道",凤凰卫视
-http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="☘️港澳台频道",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="☘️港澳台频道",翡翠台
@@ -1267,3 +1271,113 @@ https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
 http://wouu.net:9977/rtp/239.93.1.10:2193
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="星空卫视.png" group-title="☘️港澳台频道",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="凤凰卫视.png" group-title="📡港澳台频道",凤凰卫视
+http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="凤凰卫视.png" group-title="📡港澳台频道",凤凰卫视
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="📡港澳台频道",凤凰资讯
+http://r.jdshipin.com/0Rp07
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="📡港澳台频道",凤凰资讯
+http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="📡港澳台频道",凤凰资讯
+https://cdn6.101.qzz.io/163189/fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="📡港澳台频道",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="📡港澳台频道",凤凰资讯
+https://mgev.188766.xyz/?migutoken=521c0e15507784f3454db3f90e901d5b&id=fhzx&pp=1
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="📡港澳台频道",凤凰资讯
+https://mgev.188766.xyz/?migutoken=dfdb9e4c65559affb37c1c44f069b42c&id=hk_fhzx&type=dy
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="📡港澳台频道",凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="📡港澳台频道",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="📡港澳台频道",凤凰资讯
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="凤凰资讯.png" group-title="📡港澳台频道",凤凰资讯
+https://hls-gateway.vpstv.net/streams/476958.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳台频道",翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳台频道",翡翠台
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳台频道",翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳台频道",翡翠台
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳台频道",翡翠台
+http://r.jdshipin.com/GeWKr
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳台频道",翡翠台
+http://api.kkitv.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳台频道",翡翠台
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳台频道",翡翠台
+http://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳台频道",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="翡翠台.png" group-title="📡港澳台频道",翡翠台
+https://mgev.188766.xyz/?migutoken=7d34a1615682ce3f43f3fd7c89598502&id=hk_fct4k&type=dy
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="星空卫视.png" group-title="📡港澳台频道",星空卫视
+https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="星空卫视.png" group-title="📡港澳台频道",星空卫视
+https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="星空卫视.png" group-title="📡港澳台频道",星空卫视
+https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="星空卫视.png" group-title="📡港澳台频道",星空卫视
+https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="星空卫视.png" group-title="📡港澳台频道",星空卫视
+http://wouu.net:9977/rtp/239.93.1.10:2193
+#EXTINF:-1 tvg-name="星空卫视" tvg-logo="星空卫视.png" group-title="📡港澳台频道",星空卫视
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="📡港澳台频道",TVB Plus
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="📡港澳台频道",TVB Plus
+http://r.jdshipin.com/ndGgS
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="📡港澳台频道",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=j2
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="📡港澳台频道",TVB Plus
+https://mgev.188766.xyz/?migutoken=072fb16cdbe85eed283d9a7d9815e04c&id=hk_tvbp&type=dy
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="📡港澳台频道",TVB Plus
+http://hls.168.us.kg/u/82/master.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="📡港澳台频道",TVB Plus
+https://live.catvod.com/iptv.php?id=tvbplus2
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="TVB Plus.png" group-title="📡港澳台频道",TVB Plus
+https://stream1.freetv.fun/tvb-j2-2.ctv
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="明珠台.png" group-title="📡港澳台频道",明珠台
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="明珠台.png" group-title="📡港澳台频道",明珠台
+http://r.jdshipin.com/jUx8K
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="明珠台.png" group-title="📡港澳台频道",明珠台
+http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="明珠台.png" group-title="📡港澳台频道",明珠台
+http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="明珠台.png" group-title="📡港澳台频道",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="明珠台.png" group-title="📡港澳台频道",明珠台
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="明珠台.png" group-title="📡港澳台频道",明珠台
+http://hls.168.us.kg/u/84/master.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="明珠台.png" group-title="📡港澳台频道",明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="明珠台.png" group-title="📡港澳台频道",明珠台
+https://mgev.188766.xyz/?migutoken=23e616d2ccb9f8cf566f8f2567d1676a&id=hk_mzt&type=dy
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="明珠台.png" group-title="📡港澳台频道",明珠台
+https://live.catvod.com/iptv.php?id=mztsub
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="无线新闻台.png" group-title="📡港澳台频道",无线新闻台
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="无线新闻台.png" group-title="📡港澳台频道",无线新闻台
+http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="无线新闻台.png" group-title="📡港澳台频道",无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="无线新闻台.png" group-title="📡港澳台频道",无线新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="无线新闻台.png" group-title="📡港澳台频道",无线新闻台
+http://hls.168.us.kg/u/83/master.m3u8
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="无线新闻台.png" group-title="📡港澳台频道",无线新闻台
+http://tl.061833.xyz/tl/null-11
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="无线新闻台.png" group-title="📡港澳台频道",无线新闻台
+https://mgev.188766.xyz/?migutoken=91a6c0032df67b610f36764c6aaf8215&id=hk_wxxw&type=dy
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="无线新闻台.png" group-title="📡港澳台频道",无线新闻台
+http://php.jdshipin.com/smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="无线新闻台.png" group-title="📡港澳台频道",无线新闻台
+https://cdn6.101.qzz.io/163189/wxxw
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="无线新闻台.png" group-title="📡港澳台频道",无线新闻台
+https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
