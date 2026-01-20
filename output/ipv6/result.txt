@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-20 12:03:20,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-01-20 18:34:09,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -380,7 +380,6 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 吉林卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 吉林卫视,https://migu.188766.xyz/?migutoken=4d27a5db32c9f316616c47b7f072baaf&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
-吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
 江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
 江苏卫视,https://migu.188766.xyz/?migutoken=0e360ac712387d55d7de0f5ba22fc3b8&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
@@ -496,7 +495,6 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 云南卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000035
 云南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 云南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
-云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
 
 ☘️广东频道,#genre#
 广东珠江,http://r.jdshipin.com/sE5vO
@@ -700,3 +698,6 @@ TVB Plus,https://stream1.freetv.fun/tvb-j2-2.ctv
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻台,https://cdn6.101.qzz.io/163189/wxxw
 无线新闻台,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
+莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+莲花卫视,http://php.jdshipin.com:8880/amlh.php
+澳门卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
