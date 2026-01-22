@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-22 18:33:07,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-01-23 06:29:12,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -542,6 +542,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-12.ctv
 广东新闻,https://hk.188766.xyz/?migutoken=c4c34653a36ae5894131c49304c952ff&id=gd_gdxw&type=sz
 广东新闻,https://hk.188766.xyz/?migutoken=b41ff8d84911569cb60c0308df4b2d5b&id=gd_gdxw&type=sz
+广东新闻,https://hk.188766.xyz/?migutoken=a0cb828103bc8f1b75594a9acce3cf4f&id=gd_gdxw&type=sz
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
 广东卫视,https://migu.188766.xyz/?migutoken=869502ab36e68ce8a531da1020f873a1&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
@@ -699,6 +700,7 @@ TVB Plus,http://hls.168.us.kg/u/82/master.m3u8
 TVB Plus,https://live.catvod.com/iptv.php?id=tvbplus2
 TVB Plus,https://stream1.freetv.fun/tvb-j2-2.ctv
 TVB Plus,https://mgev.188766.xyz/?migutoken=dae661947d67e60a3636b793cad57982&id=hk_tvbp&type=dy
+TVB Plus,https://mgev.188766.xyz/?migutoken=273bcba0a873bc98c51e29ecc89dd254&id=hk_tvbp&type=dy
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://r.jdshipin.com/jUx8K
 明珠台,http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
